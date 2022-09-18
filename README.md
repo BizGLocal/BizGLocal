@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BizGLocal
-- 👀 I’m interested in finding tech solutions for the common problem while majorly following DRY principles
+- 👀 I’m interested in finding tech solutions for the most common problems, while following DRY principles
 - 🌱 I’m currently learning technologies that help solve the problem in hand 
 - 💞️ I’m looking to collaborate to build solutions that will have more impact in the society
 - 📫 How to reach me ...
